@@ -2,7 +2,7 @@
 
 When scanning a subnet for auditing purposes run the following:
  
-                 nmap -A -v -oX "$(date +%T)_nmap_scan.xml" <IP Address/CIDR>
+                 nmap -A -v -oA "$(date +%T)_nmap_scan" <IP Address/CIDR>
  
 For other scan types, see the nmap cheatsheet in the additional resources section.
 
