@@ -17,4 +17,4 @@ If xsltproc is not installed, run the following:
 
 Nmap XSL file can be downloaded by running:
 
-                   git clone https://github.com/dbarr914/nmap.git
+                   git clone https://github.com/dbarr914/Nmap.git
